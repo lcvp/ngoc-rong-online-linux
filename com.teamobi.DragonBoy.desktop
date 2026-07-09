@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=DragonBoy
+Exec=start-app.sh
+Icon=com.teamobi.DragonBoy
+Categories=Game;RolePlaying;

@@ -1,0 +1,3 @@
+#!/bin/bash
+bsdtar -xf downloaded_archive.rar
+rm downloaded_archive.rar
