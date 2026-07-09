@@ -19,5 +19,4 @@ flatpak-builder --disable-rofiles-fuse --install --user build-dir com.teamobi.Dr
 
 [banner-image]: https://github.com/user-attachments/assets/91490f29-79df-473e-9cdd-e58eb610275f
 [ngoc-rong-online]: https://ngocrongonline.com/
-[release-flatpak-file]: ../../releases/latest/download/com.teamobi.DragonBoy.flatpak
 [flatpak-builder-docs]: https://docs.flatpak.org/en/latest/flatpak-builder.html
