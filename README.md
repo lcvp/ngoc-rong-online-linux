@@ -8,15 +8,6 @@ Chơi [Ngọc Rồng Online][ngoc-rong-online] trên Linux.
 
 Đây chỉ là một cái Wine wrapper (Flatpak).
 
-## Tải và cài đặt
-
-Tải rồi double click cái [file .flatpak][release-flatpak-file] mới nhất trong phần Release.
-
-Nếu double click xong mà không có gì xảy ra thì:
-```bash
-flatpak install com.teamobi.DragonBoy.flatpak
-```
-
 ## Build
 
 Để [build][flatpak-builder-docs] thì:
